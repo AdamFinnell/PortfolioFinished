@@ -27,13 +27,13 @@ export default function SkillsSection() {
       ]
     },
     {
-      title: "LIBRARIES.exe",
-      subtitle: "Libraries & Frameworks",
+      title: "BACKEND.exe",
+      subtitle: "Backend Development",
       color: "cyber-pink",
       skills: [
-        { name: "Redux", level: 80, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
-        { name: "Bootstrap", level: 85, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
-        { name: "jQuery", level: 75, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
+        { name: "Node.js", level: 80, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
+        { name: "MongoDB", level: 75, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
+        { name: "PostgreSQL", level: 75, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
       ]
     },
     {
@@ -43,7 +43,7 @@ export default function SkillsSection() {
       skills: [
         { name: "Git/GitHub", level: 85, color: "bg-gradient-to-r from-green-500 to-blue-500" },
         { name: "VS Code", level: 90, color: "bg-gradient-to-r from-green-500 to-blue-500" },
-        { name: "D3.js", level: 70, color: "bg-gradient-to-r from-green-500 to-blue-500" },
+        { name: "Postman", level: 80, color: "bg-gradient-to-r from-green-500 to-blue-500" },
       ]
     }
   ];

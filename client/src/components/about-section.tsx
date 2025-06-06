@@ -43,14 +43,13 @@ export default function AboutSection() {
           >
             <h3 className="font-orbitron text-2xl cyber-green mb-6">SYSTEM.getCurrentUser()</h3>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              I'm a dedicated Frontend Developer with strong foundations in JavaScript, HTML, CSS, and modern web technologies. 
-              Currently serving as a Peer Facilitator at Persevere, where I mentor students in front-end development 
-              and share my passion for clean, responsive web applications.
+              Hi, I'm Adam D. Finnell II, a passionate full-stack developer originally from Frankfort, KY. In 2024, I joined the Persevere program and began my journey into coding—discovering not just a skill, but a calling. Now based in Tennessee, I specialize in building responsive web applications, exploring creative tech solutions, and mentoring others who are just starting their path.
             </p>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Certified through FreeCodeCamp in Responsive Web Design, JavaScript Algorithms & Data Structures, 
-              Front-End Libraries, and Data Visualization. I specialize in building user-friendly applications 
-              with React, Redux, and modern development tools while maintaining high standards for code quality.
+              I'm a full-stack developer with a strong foundation in JavaScript, HTML, and CSS. I've worked with modern frameworks like React and Node.js, and I'm comfortable building full web applications from front to back. My toolbox includes Git, GitHub, VS Code, Postman, and Netlify for deployment, and I've built projects using both MongoDB and PostgreSQL databases.
+            </p>
+            <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
+              Beyond the technical, I bring a creative, collaborative energy to every project. Whether I'm debugging a stubborn issue or helping newer devs as a teaching assistant, I approach challenges with curiosity and patience. Whether I'm debugging a JavaScript function or sketching anime fan art, I bring curiosity, precision, and heart to everything I do.
             </p>
             <div className="flex flex-wrap gap-4">
               <Badge className="bg-primary/20 border border-primary text-primary font-orbitron hover:bg-primary/30">
@@ -60,10 +59,10 @@ export default function AboutSection() {
                 REACT.JS
               </Badge>
               <Badge className="bg-purple-500/20 border border-purple-500 text-purple-500 font-orbitron hover:bg-purple-500/30">
-                HTML5/CSS3
+                NODE.JS
               </Badge>
               <Badge className="bg-green-500/20 border border-green-500 text-green-500 font-orbitron hover:bg-green-500/30">
-                D3.JS
+                TAILWIND CSS
               </Badge>
             </div>
           </motion.div>

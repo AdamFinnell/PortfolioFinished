@@ -39,7 +39,7 @@ export default function HeroSection() {
           
           <div className="cyber-border inline-block px-6 py-3 mb-8">
             <p className="font-orbitron text-xl md:text-2xl cyber-green">
-              &gt; FRONTEND_DEVELOPER.exe
+              &gt; FULLSTACK_DEVELOPER.exe
             </p>
           </div>
           
@@ -49,8 +49,8 @@ export default function HeroSection() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
-            Dedicated Frontend Developer with expertise in JavaScript, HTML, CSS, and React. 
-            Building responsive, user-friendly web applications with modern development practices.
+            Currently: Full-stack dev IRL. Mentally: An S-rank support character in a team of dreamers. 
+            Let's build something epic together.
           </motion.p>
           
           <motion.div 
