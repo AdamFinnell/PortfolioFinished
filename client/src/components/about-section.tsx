@@ -43,27 +43,27 @@ export default function AboutSection() {
           >
             <h3 className="font-orbitron text-2xl cyber-green mb-6">SYSTEM.getCurrentUser()</h3>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              I'm a passionate full-stack developer with 5+ years of experience building scalable web applications. 
-              My journey began in the neon-lit corridors of curiosity, where I discovered the power of code to 
-              transform ideas into digital reality.
+              I'm a dedicated Frontend Developer with strong foundations in JavaScript, HTML, CSS, and modern web technologies. 
+              Currently serving as a Peer Facilitator at Persevere, where I mentor students in front-end development 
+              and share my passion for clean, responsive web applications.
             </p>
             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-              Specializing in React, Node.js, and cloud architectures, I craft solutions that are both technically 
-              robust and visually stunning. When I'm not coding, you'll find me exploring the latest in AI, 
-              cybersecurity, or diving into anime and sci-fi worlds.
+              Certified through FreeCodeCamp in Responsive Web Design, JavaScript Algorithms & Data Structures, 
+              Front-End Libraries, and Data Visualization. I specialize in building user-friendly applications 
+              with React, Redux, and modern development tools while maintaining high standards for code quality.
             </p>
             <div className="flex flex-wrap gap-4">
               <Badge className="bg-primary/20 border border-primary text-primary font-orbitron hover:bg-primary/30">
-                REACT.JS
+                JAVASCRIPT
               </Badge>
               <Badge className="bg-accent/20 border border-accent text-accent font-orbitron hover:bg-accent/30">
-                NODE.JS
+                REACT.JS
               </Badge>
               <Badge className="bg-purple-500/20 border border-purple-500 text-purple-500 font-orbitron hover:bg-purple-500/30">
-                AWS
+                HTML5/CSS3
               </Badge>
               <Badge className="bg-green-500/20 border border-green-500 text-green-500 font-orbitron hover:bg-green-500/30">
-                MONGODB
+                D3.JS
               </Badge>
             </div>
           </motion.div>
@@ -87,8 +87,8 @@ export default function AboutSection() {
               animate={{ y: [-5, 5, -5] }}
               transition={{ duration: 3, repeat: Infinity }}
             >
-              <div className="cyber-green font-orbitron text-2xl font-bold">100+</div>
-              <div className="text-sm text-muted-foreground">Projects Completed</div>
+              <div className="cyber-green font-orbitron text-2xl font-bold">4</div>
+              <div className="text-sm text-muted-foreground">FCC Certifications</div>
             </motion.div>
             
             <motion.div 
@@ -96,8 +96,8 @@ export default function AboutSection() {
               animate={{ y: [-5, 5, -5] }}
               transition={{ duration: 3, repeat: Infinity, delay: 1 }}
             >
-              <div className="cyber-pink font-orbitron text-2xl font-bold">5+</div>
-              <div className="text-sm text-muted-foreground">Years Experience</div>
+              <div className="cyber-pink font-orbitron text-2xl font-bold">2024</div>
+              <div className="text-sm text-muted-foreground">Current Role</div>
             </motion.div>
           </motion.div>
         </motion.div>

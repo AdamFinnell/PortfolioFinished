@@ -15,27 +15,27 @@ interface Project {
 export default function ProjectsSection() {
   const projects: Project[] = [
     {
-      title: "CyberDash Analytics",
-      description: "A real-time analytics dashboard with holographic data visualization and AI-powered insights.",
-      image: "https://images.unsplash.com/photo-1551808525-51a94da548ce?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
-      tags: ["React", "D3.js", "Node.js"],
-      category: "WEB APP",
+      title: "FreeCodeCamp Projects",
+      description: "Responsive web design projects including tribute pages, product landing pages, and technical documentation sites built with HTML5, CSS3, and responsive design principles.",
+      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
+      tags: ["HTML5", "CSS3", "Responsive Design"],
+      category: "WEB DESIGN",
       categoryColor: "bg-primary/80"
     },
     {
-      title: "Neural Nexus",
-      description: "Machine learning platform for neural network visualization and model training with quantum processing.",
-      image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
-      tags: ["Python", "TensorFlow", "FastAPI"],
-      category: "AI/ML",
+      title: "JavaScript Algorithm Solutions",
+      description: "Comprehensive collection of JavaScript algorithm and data structure solutions covering functional programming, object-oriented programming, and ES6+ features.",
+      image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
+      tags: ["JavaScript", "ES6+", "Algorithms"],
+      category: "ALGORITHMS",
       categoryColor: "bg-accent/80"
     },
     {
-      title: "CryptoVault",
-      description: "Decentralized portfolio management with quantum encryption and multi-chain support.",
-      image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
-      tags: ["Solidity", "Web3.js", "Ethereum"],
-      category: "BLOCKCHAIN",
+      title: "React Frontend Applications",
+      description: "Modern frontend applications built with React, Redux, and SASS. Features component-based architecture, state management, and responsive user interfaces.",
+      image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600",
+      tags: ["React", "Redux", "SASS"],
+      category: "FRONTEND",
       categoryColor: "bg-purple-500/80"
     }
   ];

@@ -60,7 +60,7 @@ export default function ContactSection() {
     {
       icon: Mail,
       label: "EMAIL.send()",
-      value: "alex.chen@cyberdomain.io",
+      value: "adamfinnell@yahoo.com",
       color: "cyber-blue",
       bgColor: "bg-primary/20",
       borderColor: "border-primary"
@@ -68,7 +68,7 @@ export default function ContactSection() {
     {
       icon: Linkedin,
       label: "LINKEDIN.connect()",
-      value: "/in/alexchen-dev",
+      value: "/in/adamfinnell-dev",
       color: "cyber-pink",
       bgColor: "bg-accent/20",
       borderColor: "border-accent"
@@ -76,7 +76,7 @@ export default function ContactSection() {
     {
       icon: Github,
       label: "GITHUB.clone()",
-      value: "@alexchen-cybercoder",
+      value: "@adamfinnell",
       color: "cyber-purple",
       bgColor: "bg-purple-500/20",
       borderColor: "border-purple-500"

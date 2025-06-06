@@ -21,29 +21,29 @@ export default function SkillsSection() {
       subtitle: "Frontend Development",
       color: "cyber-blue",
       skills: [
-        { name: "React.js", level: 95, color: "bg-gradient-to-r from-blue-500 to-cyan-500" },
-        { name: "TypeScript", level: 90, color: "bg-gradient-to-r from-blue-500 to-cyan-500" },
-        { name: "Next.js", level: 85, color: "bg-gradient-to-r from-blue-500 to-cyan-500" },
+        { name: "JavaScript (ES6+)", level: 90, color: "bg-gradient-to-r from-blue-500 to-cyan-500" },
+        { name: "HTML5/CSS3", level: 95, color: "bg-gradient-to-r from-blue-500 to-cyan-500" },
+        { name: "React.js", level: 85, color: "bg-gradient-to-r from-blue-500 to-cyan-500" },
       ]
     },
     {
-      title: "BACKEND.exe",
-      subtitle: "Backend Development",
+      title: "LIBRARIES.exe",
+      subtitle: "Libraries & Frameworks",
       color: "cyber-pink",
       skills: [
-        { name: "Node.js", level: 92, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
-        { name: "Python", level: 88, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
-        { name: "PostgreSQL", level: 83, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
+        { name: "Redux", level: 80, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
+        { name: "Bootstrap", level: 85, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
+        { name: "jQuery", level: 75, color: "bg-gradient-to-r from-pink-500 to-purple-500" },
       ]
     },
     {
-      title: "DEVOPS.cfg",
-      subtitle: "DevOps & Cloud",
+      title: "TOOLS.cfg",
+      subtitle: "Development Tools",
       color: "cyber-green",
       skills: [
-        { name: "AWS", level: 87, color: "bg-gradient-to-r from-green-500 to-blue-500" },
-        { name: "Docker", level: 85, color: "bg-gradient-to-r from-green-500 to-blue-500" },
-        { name: "Kubernetes", level: 78, color: "bg-gradient-to-r from-green-500 to-blue-500" },
+        { name: "Git/GitHub", level: 85, color: "bg-gradient-to-r from-green-500 to-blue-500" },
+        { name: "VS Code", level: 90, color: "bg-gradient-to-r from-green-500 to-blue-500" },
+        { name: "D3.js", level: 70, color: "bg-gradient-to-r from-green-500 to-blue-500" },
       ]
     }
   ];

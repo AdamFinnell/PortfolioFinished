@@ -11,31 +11,31 @@ interface TimelineItem {
 export default function TimelineSection() {
   const timelineItems: TimelineItem[] = [
     {
-      title: "Senior Full Stack Developer",
-      company: "TechCorp Industries",
-      period: "2022 - PRESENT",
-      description: "Leading development of scalable microservices architecture, mentoring junior developers, and implementing CI/CD pipelines that increased deployment efficiency by 300%.",
+      title: "Peer Facilitator",
+      company: "Persevere",
+      period: "2024 - PRESENT",
+      description: "Provide instructional support and mentoring to students learning front-end development. Assist with coursework in JavaScript, HTML, CSS, and Data Structures. Guide students in debugging code and understanding object-oriented programming principles.",
       color: "bg-primary"
     },
     {
-      title: "Full Stack Developer",
-      company: "Digital Nexus Solutions",
-      period: "2020 - 2022",
-      description: "Built responsive web applications using React and Node.js, collaborated with cross-functional teams, and optimized database performance reducing query times by 60%.",
+      title: "Clerk",
+      company: "T.C.A.T.",
+      period: "2021 - 2024",
+      description: "Created Word documents and Excel spreadsheets, utilized Microsoft Office programs effectively, and operated printer and scanner equipment in an educational environment.",
       color: "bg-accent"
     },
     {
-      title: "Junior Developer",
-      company: "StartupVault",
-      period: "2019 - 2020",
-      description: "Started my journey in web development, contributing to frontend interfaces and learning modern development practices in an agile environment.",
+      title: "Library Assistant",
+      company: "State of Tennessee",
+      period: "2019 - 2021",
+      description: "Utilized Excel spreadsheets for data management, typed memos using Microsoft Word, and performed inventory duties. Developed strong organizational and computer literacy skills.",
       color: "bg-purple-500"
     },
     {
-      title: "Computer Science Degree",
-      company: "Tech University",
-      period: "2015 - 2019",
-      description: "Bachelor's in Computer Science with focus on software engineering, algorithms, and artificial intelligence. Graduated Magna Cum Laude.",
+      title: "General Construction Diploma",
+      company: "Tennessee College of Applied Technologies",
+      period: "2022",
+      description: "Graduated with a 4.0 GPA from TCAT Dickson, developing strong problem-solving skills and attention to detail that translate well to programming and web development.",
       color: "bg-green-500"
     }
   ];
