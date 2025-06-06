@@ -15,11 +15,11 @@ export default function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&h=1000" 
-          alt="Cyberpunk cityscape with neon lights" 
-          className="w-full h-full object-cover opacity-30" 
+          src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&h=1000" 
+          alt="Digital matrix code background with binary patterns" 
+          className="w-full h-full object-cover opacity-20" 
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-background/70 to-background/90"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-background/80 to-background/95"></div>
       </div>
       
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
